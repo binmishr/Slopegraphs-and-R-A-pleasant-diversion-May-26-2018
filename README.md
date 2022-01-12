@@ -10,4 +10,4 @@ This repository holds some working code for creating "slopegraphs" in R.This is 
 
 The package currently includes one mainfunction, slopegraph(), which produces a slopegraph from an observation-by-period data frame. Everything is more or less drawn automatically, but is highly customizable in terms of line and text colors, font sizes and styles, axes, titles, and plotting behind and in front of the slopegraph lines. An underlying function, segmentize() produces the data structure used for the actual plotting. And a new function, ggslopegraph() does the same as slopegraph() but using ggplot2 graphics.
 
-The related scripts for Slopegraph package is attached with this repository as .ZIP file to follow.
+
